@@ -13,4 +13,4 @@ Play with me at [https://t.me/GuessingGame_bot](https://t.me/GuessingGame_bot)
 
 ## Building & Running
 
-Fill me!
+Fill me out!
