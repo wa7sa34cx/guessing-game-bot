@@ -1,5 +1,5 @@
 use dotenv::dotenv;
-use teloxide::prelude::*;
+use teloxide::{prelude::*, utils::command::BotCommand};
 
 #[tokio::main]
 async fn main() {
